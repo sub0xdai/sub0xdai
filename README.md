@@ -3,7 +3,7 @@
 🖥️ Linux | CLI | Automation | Systems
 🚀 GO | CyberSec | Python | Data Warfare
 
-Open to strategic collaborations. Approach with competence.
+Open to collab. Approach with competence.
 
 ## Communications
 - sub0xdai@proton.me
