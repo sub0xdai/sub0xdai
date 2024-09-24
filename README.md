@@ -1,17 +1,13 @@
-# sub0xdai dev
+# sub0xdai_dev
 
 Linux | CLI | Automation | Systems
 
 Open to collab. Approach with caution.
 
-## Comms
-- sub0xdai@proton.me
-
-_Subutai (1175-1248) Known as "The Dog of War," Subutai was a master strategist and military commander who conquered more territory than any other general in history._
 
 About Me:
 
-Hi! I'm a amateur software developer/systems engineer. 
+Hi! I'm a amateur Software Developer/Systems Engineer
 
 Currently learning: Golang + Linux OS + CyberSec + DevOps
 
@@ -31,6 +27,8 @@ Languages
     Golang
     Lua
     Bash
+    PHP
+    Solidity
 
 Web Technologies
 
@@ -45,3 +43,7 @@ Web Technologies
     MongoDB
 
 
+## Comms
+- sub0xdai@proton.me
+
+_Subutai (1175-1248) Known as "The Dog of War," Subutai was a master strategist and military commander who conquered more territory than any other general in history_
