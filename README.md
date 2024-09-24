@@ -37,11 +37,21 @@ Web Technologies
     React
     NextJS
     JQuery
-    Sqlite
     Tailwind
     HTMX
-    MongoDB
+    
+Database
 
+    MongoDB
+    Postgress
+    Sqlite
+
+DevOps and Cloud Technologies
+
+    AWS
+    Docker 
+    Ansible
+    Kubernetes
 
 ## Comms
 - sub0xdai@proton.me
