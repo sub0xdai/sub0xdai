@@ -20,7 +20,7 @@ Setup
     Editor: Neovim
     Terminal: Bash/Tmux w/ starship
     OS: Arch Linux + Windows 11
-    Devices: Custom Desktop + Dell XPS15
+    Devices: Custom Desktop + Dell XPS 15 9500
 
 Languages
 
