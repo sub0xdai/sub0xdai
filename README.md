@@ -2,21 +2,19 @@
 
 Linux | CLI | Automation | Systems
 
-Open to collab. Approach with caution.
-
-
 About Me:
 
-Hi! I'm a amateur Software Developer/Systems Engineer
+I'm init for the tech. 
 
-Currently learning: Golang + Linux OS + CyberSec + DevOps
+Currently learning: Golang + LinuxOS + CyberSec + DevOps
 
 Setup
 
-    Editor: Neovim
-    Terminal: Bash/Tmux w/ starship
+    Editor: Neovim/VScode/VStudio
+    Terminal: Bash
     OS: Arch Linux + Windows 11
-    Devices: Custom Desktop + Dell XPS 15 9500
+
+_Below is stuff I have played with to varying degrees at one point of another_
 
 Languages
 
@@ -54,9 +52,10 @@ DevOps and Cloud Technologies
     Kubernetes
 
 ## Comms
+
 - sub0xdai@proton.me
 
-_Subutai (1175-1248) Known as "The Dog of War," Subutai was a master strategist and military commander who conquered more territory than any other general in history_
+
 
 
 
