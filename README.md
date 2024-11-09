@@ -14,7 +14,7 @@ Setup
     Terminal: Bash
     OS: Arch Linux + Windows 11
 
-_Below is stuff I have played with to varying degrees at one point of another_
+_Below is stuff I have played with to varying degrees at one point or another_
 
 Languages
 
