@@ -1,4 +1,4 @@
-# sub0xdai_dev
+# sub0xdai_
 
 Linux | CLI | Automation | Systems
 
