@@ -8,7 +8,7 @@ About Me:
 
     Student - Bachelor of Cybersecurity
 
-Tech
+Tech I have at least some experience working with
 
     C#
     JS
