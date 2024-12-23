@@ -1,59 +1,31 @@
 # sub0xdai_
 
-Linux | CLI | Automation | Systems
+Linux | Dev | Automation | Systems | Hacking
 
 About Me:
 
-I'm init for the tech. 
+    Former sales guru now stay 10 toes in them CLI trenches
 
-Currently learning: Golang + LinuxOS + CyberSec + DevOps
+    Student - Bachelor of Cybersecurity
 
-Setup
+Tech
 
-    Editor: Neovim/VScode/VStudio
-    Terminal: Bash
-    OS: Arch Linux + Windows 11
-
-_Below is stuff I have played with to varying degrees at one point or another_
-
-Languages
-
-    C
     C#
     JS
     Python
-    Golang
+    Go
     Lua
     Bash
     PHP
-    Solidity
-
-Web Technologies
-
-    NodeJS
-    ExpressJS
-    React
-    NextJS
-    JQuery
-    Tailwind
-    HTMX
-    
-Database
-
-    MongoDB
-    Postgress
-    Sqlite
-
-DevOps and Cloud Technologies
-
     AWS
     Docker 
     Ansible
     Kubernetes
+    Linux
 
 ## Comms
 
-- sub0xdai@proton.me
+sub0xdai@proton.me
 
 
 
