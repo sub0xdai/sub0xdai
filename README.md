@@ -11,7 +11,7 @@ Former sales and management professional who pivoted to technology, now immersed
 ### Tech Stack
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | Python, Go, Bash, JavaScript, C#, Lua, PHP |
+| **Languages** | C, Python, Go, Bash, JavaScript, C#, Lua, PHP |
 | **Infrastructure** | AWS, Docker, Kubernetes, Linux |
 | **Automation** | Ansible, Bash scripting |
 | **Security** | Network analysis, VM environments, System hardening |
@@ -23,6 +23,12 @@ Former sales and management professional who pivoted to technology, now immersed
 - Command-line efficiency and productivity
 - Linux systems engineering
 - Homelabbing
+
+### Future
+- Zig
+- Embedded
+- DevSecOps
+- Pentesting
 
 ### Connect
 📧 [sub0xdai@proton.me](mailto:sub0xdai@proton.me)
