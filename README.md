@@ -5,7 +5,7 @@
 ### About Me
 Former sales and management professional who pivoted to technology, now immersed in command-line environments and system operations. Enjoys coding. Currently pursuing a Bachelor's degree in Cybersecurity, combining business acumen with technical expertise.
 
-> "Stay 10 toes in them CLI trenches"
+> "10 toes in them trenches"
 > NVIM | TMUX | ZSH 
 
 ### Tech Stack
