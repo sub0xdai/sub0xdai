@@ -1,32 +1,30 @@
 # sub0xdai_
 
-Linux | Dev | Automation | Systems | Hacking
+## 🔐 Cybersecurity | 💻 Systems Engineering | 🐧 Linux | 🤖 Automation | 🧪 Hacking
 
-About Me:
+### About Me
+Former sales professional who pivoted to technology, now immersed in command-line environments and system operations. Currently pursuing a Bachelor's degree in Cybersecurity, combining business acumen with technical expertise.
 
-    Former sales guru now stay 10 toes in them CLI trenches
+> "Stay 10 toes in them CLI trenches"
 
-    Student - Bachelor of Cybersecurity
+### Tech Stack
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, Go, Bash, JavaScript, C#, Lua, PHP |
+| **Infrastructure** | AWS, Docker, Kubernetes, Linux |
+| **Automation** | Ansible, Bash scripting |
+| **Security** | Network analysis, VM environments, System hardening |
 
-Tech I have at least some experience working with
+### Current Focus
+- Building secure systems with automation
+- Linux administration and customization
+- Infrastructure as Code
+- Command-line efficiency and productivity
+- Linux systems engineering
+- Homelabbing
 
-    C#
-    JS
-    Python
-    Go
-    Lua
-    Bash
-    PHP
-    AWS
-    Docker 
-    Ansible
-    Kubernetes
-    Linux
-
-## Comms
-
-sub0xdai@proton.me
-
+### Connect
+📧 [sub0xdai@proton.me](mailto:sub0xdai@proton.me)
 
 
 
