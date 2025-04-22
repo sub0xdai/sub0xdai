@@ -1,8 +1,7 @@
 # sub0xdai_
 ---
 
-## 🔐 Cybersecurity | 💻 Systems | 🐧 Linux | 🤖 Automation | 🧪 Hacking
-
+## 🔐 Cybersecurity | 💻 Systems | 🐧 Linux | 🤖 Automation |
 ---
 ### About Me
 
