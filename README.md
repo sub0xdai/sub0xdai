@@ -49,6 +49,7 @@ Most of the stuff I use in my terminal setup.
 | **Infrastructure** | AWS, Docker/Podman, Kubernetes, Linux |
 | **Automation** | Ansible, Bash scripting |
 | **Security** | Network analysis, VM environments, System hardening |
+| **Monitorimg** | Grafana, Prometheus, Loki |
 
 ---
 ### Current Focus
@@ -59,6 +60,8 @@ Most of the stuff I use in my terminal setup.
 - Command-line efficiency and productivity
 - Linux systems engineering
 - Homelab
+- Security tooling: Burpsuite, wireshark etc
+- Quantum resistant layer 1 blockchain node operation
 
 ---
 ### Future
