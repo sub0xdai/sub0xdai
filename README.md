@@ -8,12 +8,9 @@ Sales professional who pivoted to tech. Immersed in command-line environments an
 ### Terminal 
 Most of the stuff I use in my terminal setup.
 
-    Terminal
-    [https://ghostty.org/]
-    Shell
-    [https://www.zsh.org/]
-    Shell Customization
-    [https://ohmyz.sh/]
+    Terminal: [https://ghostty.org/]
+    Shell: [https://www.zsh.org/]
+    Shell Customization: [https://ohmyz.sh/]
     ZSH theme: refined 
     Font: Jetbrains Mono
     Theme: base16-black-metal-khold
@@ -32,7 +29,8 @@ Most of the stuff I use in my terminal setup.
     lazygit [https://github.com/jesseduffield/lazygit]
     For navigation between tmux panes and nvim panes
     [https://github.com/christoomey/vim-tmux-navigator]
-    FZF [https://github.com/junegunn/fzf]
+    FZF 
+    [https://github.com/junegunn/fzf]
 
 
 ### Tech Stack
