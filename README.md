@@ -6,7 +6,9 @@
 Sales professional who pivoted to tech. Immersed in command-line environments and system operations. Enjoys coding. Currently pursuing a Bachelor's in Cybersecurity. Enjoyer of all the linux. 
 
 Main driving: arch btw
+
 Server: ubuntu 
+
 Sandboxes: rocky and kali VMs
 
 ### Terminal 
