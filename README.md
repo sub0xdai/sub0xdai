@@ -3,9 +3,8 @@
 ## 🔐 Cybersecurity | 💻 Systems | 🐧 Linux | 🤖 Automation | 🧪 Hacking
 
 ### About Me
-Former sales and management professional who pivoted to technology, now immersed in command-line environments and system operations. Enjoys coding. Currently pursuing a Bachelor's degree in Cybersecurity, combining business acumen with technical expertise.
+Former sales and management professional who pivoted to technology, now immersed in command-line environments and system operations. Enjoys coding. Currently pursuing a Bachelor's degree in Cybersecurity. Enjoyer of all the linux.
 
-> "10 toes in them trenches"
 > NVIM | TMUX | ZSH 
 
 ### Tech Stack
