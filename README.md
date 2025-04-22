@@ -49,7 +49,7 @@ Most of the stuff I use in my terminal setup.
 | **Infrastructure** | AWS, Docker/Podman, Kubernetes, Linux |
 | **Automation** | Ansible, Bash scripting |
 | **Security** | Network analysis, VM environments, System hardening |
-| **Monitorimg** | Grafana, Prometheus, Loki |
+| **Monitoring** | Grafana, Prometheus, Loki |
 
 ---
 ### Current Focus
