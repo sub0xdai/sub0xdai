@@ -1,8 +1,10 @@
 # sub0xdai_
+---
 
 ## 🔐 Cybersecurity | 💻 Systems | 🐧 Linux | 🤖 Automation | 🧪 Hacking
 
 ### About Me
+---
 Sales professional who pivoted to tech. Immersed in command-line environments and system operations. Enjoys coding. Currently pursuing a Bachelor's in Cybersecurity. Enjoyer of all the linux. 
 
 Main driving: arch btw
@@ -11,7 +13,10 @@ Server: ubuntu
 
 Sandboxes: rocky and kali VMs
 
+
+
 ### Terminal 
+---
 Most of the stuff I use in my terminal setup.
 
 - Terminal: [https://ghostty.org/]
@@ -23,7 +28,7 @@ Most of the stuff I use in my terminal setup.
 - nvim config: refined
 
 #### Useful Tools
-
+---
 - tmux: [https://github.com/tmux/tmux/wiki]
 - neovim: [https://neovim.io/]
 - yazi: [https://github.com/sxyazi/yazi]
@@ -34,6 +39,7 @@ Most of the stuff I use in my terminal setup.
 
 
 ### Tech Stack
+---
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | C, Python, Go, Bash, JavaScript, C#, Lua, PHP |
@@ -42,6 +48,7 @@ Most of the stuff I use in my terminal setup.
 | **Security** | Network analysis, VM environments, System hardening |
 
 ### Current Focus
+---
 - Automation
 - Linux administration 
 - Infrastructure as code
@@ -50,11 +57,13 @@ Most of the stuff I use in my terminal setup.
 - Homelab
 
 ### Future
+---
 - Zig
 - Embedded
 - DevSecOps
   
 ### Connect
+---
 📧 [sub0xdai@proton.me](mailto:sub0xdai@proton.me)
 
 
