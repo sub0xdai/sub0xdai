@@ -5,7 +5,7 @@
 ---
 ### About Me
 
-Sales professional who pivoted to tech. Command-line environments and system operations. Enjoys coding. Currently pursuing a Bachelor's in Cybersecurity. Enjoyer of all the linux. 
+Sales professional who pivoted to tech. Command-line environments and system operations. Enjoys coding. Currently pursuing a Bachelor's in Cybersecurity. Enjoyer of all the linux. *tehuticode is my alt github
 
 Main driving: arch btw
 
