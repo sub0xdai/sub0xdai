@@ -1,17 +1,17 @@
-# sub0xdai_
+# Daniel Palazzolo
 ---
 
 ## 🔐 Security | 💻 Systems | 🐧 Linux | 🤖 Automation 
 ---
 ### About Me
 
-Sales professional who pivoted to tech. Command-line environments and system operations. Enjoys coding. Currently pursuing a Bachelor's in Cybersecurity. Enjoyer of all the linux. *tehuticode is my alt github
+Sales professional who pivoted to tech. Command-line environments and system operations. Enjoys coding. Currently pursuing a Bachelor's in Cybersecurity. Enjoyer of all the linux. 
 
-Main driving: arch btw
+Main OS: arch, windows 11
 
-Server: ubuntu 
+Server: ubuntu LTS
 
-Sandboxes: rocky and kali VMs
+Sandbox: rocky and kali VMs
 
 
 ---
