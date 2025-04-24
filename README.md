@@ -1,4 +1,4 @@
-# Daniel Palazzolo
+# “It seems essential in relationships and all tasks that we concentrate only on what is most significant and important.” - Søren Kierkegaard
 ---
 
 ## 🔐 Security | 💻 Systems | 🐧 Linux | 🤖 Automation 
