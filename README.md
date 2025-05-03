@@ -1,9 +1,7 @@
 
 ## 🔐 Security | 💻 Systems | 🐧 Linux | 🤖 Automation 
 ---
-### About Me
-
-Sales professional who pivoted to tech. Command-line environments and system operations. Enjoys coding. Currently pursuing a Bachelor's in Cybersecurity. Enjoyer of all the linux. 
+Sales guy who pivoted to tech. Command-line environments and system operations. Enjoys coding. Currently pursuing a Bachelor's in Cybersecurity. Enjoyer of all the linux. 
 
 Main OS: arch, windows 11
 
