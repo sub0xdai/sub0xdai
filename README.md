@@ -5,7 +5,7 @@ Former Enterprise Relationship Orchestration Specialist who executed a strategic
 
 Main OS: arch, windows 11
 
-Server: ubuntu LTS
+Server: ubuntu
 
 Sandbox: rocky and kali VMs
 
