@@ -19,14 +19,13 @@ toys:
 - Terminal: [https://ghostty.org/]
 - Shell: [https://www.zsh.org/]
 - Shell Customization: [https://ohmyz.sh/]
-- ZSH theme: refined 
 - Font: Jetbrains Mono
 - Theme: base16-black-metal-khold
-- nvim config: refined... like me, refined
 - tmux: [https://github.com/tmux/tmux/wiki]
 - yazi: [https://github.com/sxyazi/yazi]
 - zoxide: [https://github.com/ajeetdsouza/zoxide]
-- lazygit: [https://github.com/jesseduffield/lazygit]
+- lazygit: [https://github.com/jesseduffield/lazygit] etc etc etc
+![image](https://github.com/user-attachments/assets/b7aaf6dc-fafe-4bc3-93fb-09eb6586124e)
 
 ---
 ### Tech I pretend to know about
