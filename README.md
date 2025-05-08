@@ -52,7 +52,7 @@ toys:
 - Linux systems engineering
 - Homelab
 - Security tooling
-- Quantum resistant layer 1 blockchain node operation
+- Quantum resistant layer 1 node
 
 ---
 ### Future (delusion)
