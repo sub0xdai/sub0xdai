@@ -42,8 +42,9 @@ toys:
 | **Monitoring** | Grafana, Prometheus, Loki |
 
 ---
-### Current Distractions from video games
+### Current distractions from gaming
 
+- Kids
 - Automation
 - Linux administration 
 - Infrastructure as code
