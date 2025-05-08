@@ -48,10 +48,10 @@ toys:
 - Automation
 - Linux administration 
 - Infrastructure as code
-- Command-line efficiency and productivity
+- Command-line efficiency 
 - Linux systems engineering
 - Homelab
-- Security tooling: Burpsuite, wireshark etc
+- Security tooling
 - Quantum resistant layer 1 blockchain node operation
 
 ---
