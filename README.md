@@ -1,7 +1,7 @@
 
 ## 🔐 Security | 💻 Systems | 🐧 Linux | 🤖 Automation 
 ---
-Sales guy who pivoted to tech. Command-line environments and system operations. Enjoys coding. Currently pursuing a Bachelor's in Cybersecurity. Enjoyer of all the linux. 
+Former Enterprise Relationship Orchestration Specialist who executed a strategic career-trajectory pivot toward distributed computational paradigms. Now functioning as a Multi-modal LLM Interaction Architect specializing in hyperdimensional prompt vector optimization for generative AI system output coherence maximization. Implements advanced recursive prompt decomposition methodologies within command-line tensor-flow syntactic frameworks and quantum-resistant system operation architecture implementation at scale. Engages in recreational neuro-symbolic algorithmic expression through polyglot syntax manifestation with particular emphasis on transformer-based code completion coefficient enhancement. Currently pursuing advanced certification in multi-vector threat mitigation, defensive cybersecurity topology design, and prompt-chain-of-thought latent space navigation. Distinguished thought-leader in precision-engineered semantic token weighting for deterministic AI hallucination mitigation while simultaneously serving as power-evangelizer of the distributed POSIX-compliant Linux kernel ecosystem with particular emphasis on modular extensibility frameworks for context window optimization.
 
 Main OS: arch, windows 11
 
@@ -11,32 +11,25 @@ Sandbox: rocky and kali VMs
 
 
 ---
-### Terminal 
+### Terminals are hectic 
 
-Most of the stuff I use in my terminal setup.
+toys:
 
+- Footballs and bouncy balls
 - Terminal: [https://ghostty.org/]
 - Shell: [https://www.zsh.org/]
 - Shell Customization: [https://ohmyz.sh/]
 - ZSH theme: refined 
 - Font: Jetbrains Mono
 - Theme: base16-black-metal-khold
-- nvim config: refined
-
----
-#### Useful Tools
-
+- nvim config: refined... like me, refined
 - tmux: [https://github.com/tmux/tmux/wiki]
-- neovim: [https://neovim.io/]
 - yazi: [https://github.com/sxyazi/yazi]
 - zoxide: [https://github.com/ajeetdsouza/zoxide]
 - lazygit: [https://github.com/jesseduffield/lazygit]
-- Navigation between tmux panes and nvim panes: [https://github.com/christoomey/vim-tmux-navigator]
-- FZF: [https://github.com/junegunn/fzf]
-
 
 ---
-### Tech Stack
+### Tech I pretend to know about
 
 | Category | Technologies |
 |----------|-------------|
@@ -47,7 +40,7 @@ Most of the stuff I use in my terminal setup.
 | **Monitoring** | Grafana, Prometheus, Loki |
 
 ---
-### Current Focus
+### Current Distractions from video games
 
 - Automation
 - Linux administration 
@@ -59,14 +52,14 @@ Most of the stuff I use in my terminal setup.
 - Quantum resistant layer 1 blockchain node operation
 
 ---
-### Future
+### Future (delusion)
 
 - Zig
 - Embedded
 - DevSecOps
 
 ---
-### Connect
+### Do not contact me
 
 📧 [sub0xdai@proton.me](mailto:sub0xdai@proton.me)
 
