@@ -27,7 +27,8 @@ toys:
 - lazygit: [https://github.com/jesseduffield/lazygit] etc etc etc
 
 ### UNIXPXRN SUBMISSION
-![image](https://github.com/user-attachments/assets/b7aaf6dc-fafe-4bc3-93fb-09eb6586124e)
+![image](https://github.com/user-attachments/assets/f285f0c4-8f66-4437-8d0f-331dc998f299)
+
 
 ---
 ### Tech I pretend to know about
