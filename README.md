@@ -13,25 +13,18 @@ Sandbox: rocky and kali VMs
 ---
 ### Terminals are hectic 
 
-toys:
-
 - Footballs and bouncy balls
 - Terminal: [https://ghostty.org/]
 - Shell: [https://www.zsh.org/]
-- Shell Customization: [https://ohmyz.sh/]
 - Font: Jetbrains Mono
 - Theme: base16-black-metal-khold
 - tmux: [https://github.com/tmux/tmux/wiki]
 - yazi: [https://github.com/sxyazi/yazi]
 - zoxide: [https://github.com/ajeetdsouza/zoxide]
-- lazygit: [https://github.com/jesseduffield/lazygit] etc etc etc
-
-### UNIXPXRN SUBMISSION
-![image](https://github.com/user-attachments/assets/f285f0c4-8f66-4437-8d0f-331dc998f299)
-
+- lazygit: [https://github.com/jesseduffield/lazygit] 
 
 ---
-### Tech I pretend to know about
+### Tech is tech
 
 | Category | Technologies |
 |----------|-------------|
