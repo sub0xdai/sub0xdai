@@ -15,9 +15,6 @@ arch, windows 11, ubuntu, rocky, kali
 - Font: Jetbrains Mono
 - Theme: base16-black-metal-khold
 - tmux: [https://github.com/tmux/tmux/wiki]
-- yazi: [https://github.com/sxyazi/yazi]
-- zoxide: [https://github.com/ajeetdsouza/zoxide]
-- lazygit: [https://github.com/jesseduffield/lazygit] 
 
 ---
 ### Tech is tech
