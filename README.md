@@ -26,7 +26,7 @@ Sales → Linux -> Software. Hyperoptimizes POSIX-compliant kernel distributions
 
 
 ---
-### Do contact
+### Contact
 
 📧 [sub0xdai@proton.me](mailto:sub0xdai@proton.me)
 
