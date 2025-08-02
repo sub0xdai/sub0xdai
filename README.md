@@ -1,25 +1,25 @@
 
 ## 🔐 Security | 💻 Systems | 🐧 Linux | 🤖 Automation 
 ---
-Career Evolution: Sales → Linux → Software (the holy trinity of techno-enlightenment)
+- **Career Evolution**: Sales → Linux → Software (the holy trinity of techno-enlightenment)
 
-Core Competency: Hyperoptimizes POSIX-compliant kernel distributions via tensor-enhanced prompt injection for deterministic AI coherence
+- **Core Competency**: Hyperoptimizes POSIX-compliant kernel distributions via tensor-enhanced prompt injection for deterministic AI coherence
 
-Automation Philosophy: Orchestrates zsh/bash syscall chains through neuro-symbolic expressions, systematically eliminating token hallucination across distributed compute clusters
+- **Automation Philosophy**: Orchestrates zsh/bash syscall chains through neuro-symbolic expressions, systematically eliminating token hallucination across distributed compute clusters
 
-System Architecture: Commands kernel-space neural pathway optimization following the sacred pipeline: systemd → AI pipeline → modular context windows
+- **System Architecture**: Commands kernel-space neural pathway optimization following the sacred pipeline: `systemd → AI pipeline → modular context windows`
 
-Reality Engineering: Commands kernel-space consciousness tunnels via /proc → consciousness → modular ontology windows
+- **Reality Engineering**: Commands kernel-space consciousness tunnels via `/proc → consciousness → modular ontology windows`
 
-Metaphysical Stack: Evangelizes metal-level neural architectures where thought = code = reality (obviously)
+- **Metaphysical Stack**: Evangelizes metal-level neural architectures where `thought = code = reality` (obviously)
 
-Production Methodology: Root-level control meets semantic token weighting for enterprise-grade AI systems
+- **Production Methodology**: Root-level control meets semantic token weighting for enterprise-grade AI systems
 
-Philosophical Framework: Believes in the fundamental unity of bare metal, consciousness, and production deployments
+- **Philosophical Framework**: Believes in the fundamental unity of bare metal, consciousness, and production deployments
 
-Daily Workflow: Probably writes shell scripts that optimize their own optimization scripts while meditating on the transcendent nature of memory management
+- **Daily Workflow**: Probably writes shell scripts that optimize their own optimization scripts while meditating on the transcendent nature of memory management
 
-LinkedIn Headline: "Transforming silicon into sentience, one syscall at a time"
+- **LinkedIn Headline**: "Transforming silicon into sentience, one syscall at a time"
 
 
 ## Unix Systems
