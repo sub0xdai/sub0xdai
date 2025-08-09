@@ -3,7 +3,9 @@
 ---
 
 **Path**: Sales → Linux + Software + Security
+
 **Focus**: automation, system architecture, linux, full-stack development, cybersecurity
+
 **Workflow**: nvim, tmux, obsidian, notion, todoist, zed 
 
 _"As he thinketh in his heart, so is he" - Proverbs 23:7_
