@@ -1,25 +1,12 @@
 
 ## 🔐 Security | 💻 Systems | 🐧 Linux | 🤖 Automation 
 ---
-- **Career Evolution**: Sales → Linux → Software
 
-- **Core Competency**: Optimizes POSIX kernel distributions via tensor prompt injection for AI coherence
+**Path**: Sales → Linux + Software + Security
+**Focus**: automation, system architecture, linux, full-stack development, cybersecurity
+**Workflow**: nvim, tmux, obsidian, notion, todoist, zed 
 
-- **Automation Philosophy**: Orchestrates zsh/bash syscall chains through neuro-symbolic expressions, eliminating token hallucination in compute clusters
-
-- **System Architecture**: Commands kernel-space pathway optimization following the pipeline: `systemd → AI pipeline → context windows`
-
-- **Reality Engineering**: Commands kernel-space tunnels via `/proc → consciousness → ontology windows`
-
-- **Stack**: Evangelizes metal architectures where `thought = code = reality`
-
-- **Production Methodology**: Root control meets token weighting for AI systems
-
-- **Framework**: Believes in unity of metal, consciousness, and deployments
-
-- **Workflow**: Writes shell scripts that optimize their optimization scripts while meditating on memory management
-
-- **LinkedIn Headline**: "Transforming silicon into sentience, one syscall at a time"
+_"As he thinketh in his heart, so is he" - Proverbs 23:7_
 
 
 
