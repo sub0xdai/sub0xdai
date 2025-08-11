@@ -1,8 +1,8 @@
 
-## 🔐 Security | 💻 Systems | 🐧 Linux | 🤖 Automation 
+# 🔐 Security | 💻 Systems | 🐧 Linux | 🤖 Automation 
 ---
 
-Sales → Linux + Software + Security
+#### Sales → Linux + Software + Security
 
 **Focus**: automation, system architecture, linux, full-stack development, cybersecurity, degree work
 
