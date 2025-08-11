@@ -2,9 +2,9 @@
 ## 🔐 Security | 💻 Systems | 🐧 Linux | 🤖 Automation 
 ---
 
-**Path**: Sales → Linux + Software + Security
+Sales → Linux + Software + Security
 
-**Focus**: automation, system architecture, linux, full-stack development, cybersecurity
+**Focus**: automation, system architecture, linux, full-stack development, cybersecurity, degree work
 
 **Workflow**: nvim, tmux, obsidian, notion, todoist, zed 
 
