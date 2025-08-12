@@ -12,7 +12,7 @@ _"As he thinketh in his heart, so is he" - Proverbs 23:7_
 
 ---
 
-#### Current
+#### Projects
 - [x] defensive cybersecurity tooling with ai insights
 - [ ] trading platform with automated risk and position management 
 
