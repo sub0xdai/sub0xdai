@@ -11,7 +11,7 @@
 _"As he thinketh in his heart, so is he" - Proverbs 23:7_
 
 
-
+---
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
