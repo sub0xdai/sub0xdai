@@ -9,6 +9,7 @@
 **Tools**: nvim, tmux, obsidian, notion, todoist, zed 
 
 **Flow**: 
+
   --- SUPREME MATH WORKFLOW ---
 1 = Knowledge → Morning information gathering phase
 2 = Wisdom → Synthesis and pattern recognition
