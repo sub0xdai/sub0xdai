@@ -7,21 +7,36 @@
 **Focus**: automation, system architecture, linux, full-stack development, cybersecurity, degree work
 
 **Tools**: nvim, tmux, obsidian, notion, todoist, zed 
-
+ 
 **Flow**: 
-
   --- SUPREME MATH WORKFLOW ---
+  
 1 = Knowledge → Morning information gathering phase
+
 2 = Wisdom → Synthesis and pattern recognition
+
 3 = Understanding → Deep comprehension of root causes
+
 4 = Culture/Freedom → Creative solution generation
+
 5 = Power/Refinement → Implementation and execution
+
 6 = Equality → Balance assessment and adjustment
+
 7 = God → Mastery demonstration and teaching
+
 8 = Build/Destroy → Strategic construction/elimination
+
 9 = Born → Manifestation of results
+
 0 = Cipher → Complete cycle, return to knowledge
+
 --- END WORKFLOW ---
+
+_"As he thinketh in his heart, so is he" - Proverbs 23:7_
+
+---
+
 
 _"As he thinketh in his heart, so is he" - Proverbs 23:7_
 
