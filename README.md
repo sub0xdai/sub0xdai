@@ -8,7 +8,8 @@
 
 **Tools**: nvim, tmux, obsidian, notion, todoist, zed 
  
-**Flow**: 
+**Flow**:
+
   --- SUPREME MATH WORKFLOW ---
   
 1 = Knowledge → Morning information gathering phase
