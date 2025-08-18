@@ -10,7 +10,7 @@
  
 **Flow**:
 
-  --- SUPREME MATHs ---
+  ------
   
 1 = Knowledge → Morning information gathering phase
 
@@ -32,7 +32,7 @@
 
 0 = Cipher → Complete cycle, return to knowledge
 
---- END WORKFLOW ---
+------
 
 
 ---
