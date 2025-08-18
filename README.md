@@ -6,7 +6,7 @@
 
 **Focus**: automation, system architecture, linux, full-stack development, cybersecurity, degree work
 
-**Tools**: nvim, tmux, obsidian, notion, todoist, zed 
+**Tools**: nvim, tmux, obsidian, notion, todoist, zed, claude/gemini cli and associated mcp servants
  
 **Flow**:
 
