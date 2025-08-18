@@ -10,7 +10,7 @@
  
 **Flow**:
 
-  --- SUPREME MATH WORKFLOW ---
+  --- SUPREME MATHs ---
   
 1 = Knowledge → Morning information gathering phase
 
