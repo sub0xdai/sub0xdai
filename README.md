@@ -12,7 +12,7 @@
 
   ------
   
-1 = Knowledge → Morning information gathering phase
+1 = Knowledge → Information gathering phase
 
 2 = Wisdom → Synthesis and pattern recognition
 
