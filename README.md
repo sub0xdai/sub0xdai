@@ -6,7 +6,7 @@
 
 **Focus**: automation, system architecture, linux, full-stack development, cybersecurity, degree work
 
-**Tools**: nvim, tmux, obsidian, notion, todoist, zed, claude/gemini cli and associated mcp servants
+**Tools**: nvim, tmux, ghostyy, obsidian, notion, todoist, zed
  
 **Flow**:
 
@@ -40,10 +40,6 @@
 
 _"As he thinketh in his heart, so is he" - Proverbs 23:7_
 
----
-
-#### Projects
-- [ ] trading platform with automated risk and position management 
 
 ---
 
