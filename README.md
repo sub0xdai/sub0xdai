@@ -7,8 +7,6 @@
 **Focus**: automation, system architecture, linux, full-stack development, cybersecurity, degree work
 
 **Tools**: nvim, tmux, ghostyy, obsidian, notion, todoist, zed
- 
-**Flow**:
 
   ------
   
