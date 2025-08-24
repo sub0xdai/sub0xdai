@@ -6,7 +6,7 @@
 
 **Focus**: automation, system architecture, linux, full-stack development, security - offense and defense
 
-**Tools**: nvim, tmux, ghostyy, obsidian, notion, todoist, zed
+**Tools**: nvim, tmux, obsidian, notion, todoist, zed
 
   ------
   
