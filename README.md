@@ -2,7 +2,7 @@
 # 🔐 Security | 💻 Systems | 🐧 Linux | 🤖 Automation 
 ---
 
-#### Sales → Linux + Software + Security
+#### Hustlin → Linux + Software + Security
 
 **Focus**: automation, system architecture, linux, full-stack development, security - offense and defense
 
