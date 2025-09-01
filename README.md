@@ -4,9 +4,9 @@
 
 #### Hustlin → Linux + Software + Security
 
-**Focus**: automation, system architecture, linux, full-stack development, security - offense and defense
+automation, system architecture, linux, full-stack development, security - offense and defense
 
-**Tools**: nvim, tmux, obsidian, notion, todoist, zed
+nvim, tmux, obsidian, notion, todoist, zed
 
   ------
   
