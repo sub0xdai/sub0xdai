@@ -1,5 +1,5 @@
 
-# 🔐 Security | 💻 Systems | 🐧 Linux | 🤖 Automation 
+# 💻 Dev | 🐧 Linux 
 ---
 
 #### Hustlin → Linux + Software + Security
