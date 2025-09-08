@@ -4,7 +4,7 @@
 
 #### Linux + Software + Security
 
-automation, system architecture, linux, full-stack development, security - offense & defense
+automation, system architecture, linux, full-stack development, cybersecurity 
 
 nvim, tmux, obsidian, notion, todoist, zed
 
