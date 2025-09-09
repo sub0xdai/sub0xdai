@@ -1,5 +1,5 @@
 
-# 💻🐧
+# 🐧
 ---
 
 #### Linux + Software + Security
