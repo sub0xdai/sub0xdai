@@ -18,7 +18,7 @@ nvim, tmux, obsidian, notion, todoist, zed
 
 4 → Freedom: Ideation cascade; creative bifurcations accelerating toward chaos.
 
-Threshold: The Feigenbaum Point (δ≈4.669) - The universal boundary where orderly growth collapses into complex novelty.
+  _Threshold: The Feigenbaum Point (δ≈4.669) - The universal boundary where orderly growth collapses into complex novelty._
 
 5 → Power: Syzygetic action; harnessing chaos through a focused gate of implementation (the 4↔5 gate).
 
