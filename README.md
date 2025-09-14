@@ -18,7 +18,7 @@ nvim, tmux, obsidian, notion, todoist, zed
 
 4 → Freedom: Ideation cascade; creative bifurcations accelerating toward chaos.
 
-    _(δ≈4.669) - The universal boundary where orderly growth collapses into complex novelty._
+    (δ≈4.669) - The universal boundary where orderly growth collapses into complex novelty.
 
 5 → Power: Syzygetic action; harnessing chaos through a focused gate of implementation (the 4↔5 gate).
 
