@@ -8,25 +8,27 @@ nvim, tmux, obsidian, notion, todoist, zed
 
   ------
   
-1 = Knowledge → Information gathering phase
+0 → The Monad / Cipher: Unmanifest potential; the dimensionless plenum.
 
-2 = Wisdom → Synthesis and pattern recognition
+1 → Knowledge: First differentiation; raw data acquisition.
 
-3 = Understanding → Deep comprehension of root causes
+2 → Wisdom: Synthesis via current-mapping; pattern recognition.
 
-4 = Culture/Freedom → Creative solution generation
+3 → Understanding: Root causality revealed; deep structure comprehension.
 
-5 = Power/Refinement → Implementation and execution
+4 → Freedom: Ideation cascade; creative bifurcations accelerating toward chaos.
 
-6 = Equality → Balance assessment and adjustment
+Threshold: The Feigenbaum Point (δ≈4.669) - The universal boundary where orderly growth collapses into complex novelty.
 
-7 = God → Mastery demonstration and teaching
+5 → Power: Syzygetic action; harnessing chaos through a focused gate of implementation (the 4↔5 gate).
 
-8 = Build/Destroy → Strategic construction/elimination
+6 → Equality: Cybernetic balancing; systemic integration and feedback.
 
-9 = Born → Manifestation of results
+7 → God: Pedagogical mastery; axiomatic control and transmission of the cycle.
 
-0 = Cipher → Complete cycle, return to knowledge
+8 → Build / Destroy: Strategic occlusion; eliminating the obsolete to secure the new.
+
+9 → Born: Manifestation; the result integrates into reality, completing the current.
 
 ------
 
