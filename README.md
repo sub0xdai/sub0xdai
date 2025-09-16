@@ -4,7 +4,7 @@
 
 #### Linux + Software + Security
 
-nvim, tmux, obsidian, notion, todoist, zed
+nvim, tmux, obsidian, zed
 
   ------
   
