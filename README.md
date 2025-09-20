@@ -4,7 +4,7 @@
 
 #### Linux + Software etc
 
-nvim, tmux, obsidian, zed, who the fuck even reads this shit seriously
+nvim, tmux, obsidian, zed sometimes, who the fuck even reads this shit seriously
 
 ------
 
