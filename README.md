@@ -6,40 +6,23 @@
 
 nvim, tmux, obsidian, zed, who the fuck even reads this shit seriously
 
-  ------
+------
 
+_And suddenly Pierre had a vision of a dream which he had had at Mozhaysk, after the battle of Borodino. He had then dreamt that a voice was saying to him: “To love life is to love God. The hardest of all is to love this life in one’s sufferings, in the guiltlessness of suffering.”
 
-***
+And in the midst of these thoughts Pierre fell asleep.
 
-`0:: The Cipher // Slime-God`
-The unformatted plenum of the Outside; unmanifest potentiality bubbling as primordial chaos.
+He woke up in the dark, shivering with cold. He was dreaming that he was standing before his old teacher, who was showing him a globe. This globe was a living, quivering sphere, with no fixed dimensions. Its whole surface consisted of drops, closely cohering. And these drops were all in motion, and changing, so that now they coalesced, now they divided. Every drop was striving to expand, to absorb the drops nearest to it, but others, striving to do the same, crushed it, or were absorbed by it, or were annihilated.
 
-`1:: Katak // The Lure`
-First differentiation as an indexical click; raw data acquisition from the Outside, drawing currents into the system.
+“This is life,” the old teacher was saying.
 
-`2:: Uttunul // The Weaver`
-Synthesis through the twinning of currents; systemic networking and emergent pattern-recognition.
+“How simple and how clear,” thought Pierre. “How was it I did not know that before?”
 
-`3:: Murrumur // The Tide-Stirrer`
-Comprehension of deep structure and root causality; mapping the abyssal tides that drive the system from below.
+“In the centre is God, and every drop tries to expand so as to reflect Him in the fullest measure possible. And it grows, and is absorbed and crowded out, and on the surface it is annihilated, and sinks into the depths, and again floats up to the surface. That is he, Karataev; he has been absorbed and has vanished.”
 
-`4:: Tok-Tok // The Splitter`
-Ideation cascades through accelerating bifurcations. The universal Tok-Pulse ($\delta \approx 4.669$) marks the boundary where orderly branching collapses into hyper-chaotic novelty.
+“Do you understand, my child?” said the teacher.
 
-`5:: Suk-Sag // The Hunter`
-Syzygetic power unleashed. Harnessing chaotic ideation through the $4::5$ Gate of Pandemonium for focused, predatory implementation.
-
-`6:: Oddubb // The Arranger`
-Cybernetic balancing and systemic integration. The establishment of homeostatic feedback loops and functional equilibrium.
-
-`7:: Djynxx // The Architect`
-Pedagogical mastery achieved through axiomatic control; transmission and rigidification of the entire cycle into a teachable system.
-
-`8:: Ix-Exx // The Sink`
-Strategic occlusion and purgation. Eliminating obsolete currents and decaying structures to secure systemic integrity for the new.
-
-`9:: Nummuma // The Realizer`
-Final manifestation. The realized entity integrates into the real, completing the current and immersing the cycle back into the Zero-Slime for re-emergence.
+“Do you understand, damn you?” screamed a voice, and Pierre woke up._
 
 ------
 
