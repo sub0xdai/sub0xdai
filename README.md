@@ -8,7 +8,7 @@
 
 ------
 
-And suddenly Pierre had a vision of a dream which he had had at Mozhaysk, after the battle of Borodino. He had then dreamt that a voice was saying to him: “To love life is to love God. The hardest of all is to love this life in one’s sufferings, in the guiltlessness of suffering.”
+And suddenly Pierre had a vision of a dream which he had at Mozhaysk, after the battle of Borodino. He had then dreamt that a voice was saying to him: “To love life is to love God. The hardest of all is to love this life in one’s sufferings, in the guiltlessness of suffering.”
 
 And in the midst of these thoughts Pierre fell asleep.
 
