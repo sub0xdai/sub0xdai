@@ -4,7 +4,6 @@
 
 #### Behold, I will rain down bread from heaven for you
 
-`nvim - tmux`
 
 ------
 
