@@ -15,15 +15,14 @@ struct EmbeddedState {
 
 struct EmbeddedState init_system_state(OperationalMode mode) {
     struct EmbeddedState state = {
+        .dialogue = "Nothing goes with a percocet like some good air conditioning, ya know?",
         .system_boundary = (void *)0xC0000000
     };
 
     if (mode == MODE_STUDYING) {
         state.current_focus = "Bachelor of Cybersecurity";
-        state.dialogue = "Nothing goes with a percocet like some good air conditioning, ya know?";
     } else {
         state.current_focus = "Testudo: Risk Management Perp Trading App";
-        state.dialogue = "Building agentic flows.";
     }
 
     return state;
