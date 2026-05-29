@@ -22,8 +22,7 @@ struct EmbeddedState init_system_state(OperationalMode mode) {
     if (mode == MODE_STUDYING) {
         state.current_focus = "bachelor of souless IT corp-slop";
     } else {
-        state.current_focus = "testudo like the roman military formation which is pretty cool but I try not to think about
-        parthian campaigns and caligula and stuff";
+        state.current_focus = "testudo";
     }
 
     return state;
