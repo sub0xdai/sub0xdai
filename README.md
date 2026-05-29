@@ -20,9 +20,9 @@ struct EmbeddedState init_system_state(OperationalMode mode) {
     };
 
     if (mode == MODE_STUDYING) {
-        state.current_focus = "Bachelor of Cybersecurity";
+        state.current_focus = "bachelor of being a nerd";
     } else {
-        state.current_focus = "Testudo: Risk Management Perp Trading App";
+        state.current_focus = "testudo like the roman military formation which is pretty neat but I try not to think about parthian campaigns and caligula and stuff like that";
     }
 
     return state;
