@@ -20,7 +20,7 @@ struct EmbeddedState init_system_state(OperationalMode mode) {
     };
 
     if (mode == MODE_STUDYING) {
-        state.current_focus = "bachelor of souless IT corp-slop";
+        state.current_focus = "degree";
     } else {
         state.current_focus = "testudo";
     }
