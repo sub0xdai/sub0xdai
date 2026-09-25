@@ -20,9 +20,9 @@ struct EmbeddedState init_system_state(OperationalMode mode) {
     };
 
     if (mode == MODE_STUDYING) {
-        state.current_focus = "bachelor of cybersecurity";
+        state.current_focus = "opsec";
     } else {
-        state.current_focus = "operating systems, fintech";
+        state.current_focus = "operating systems, linux internals, fintech";
     }
 
     return state;
