@@ -1,33 +1,7 @@
 
 # 🐧
----
-```c
-typedef enum {
-    MODE_STUDYING,
-    MODE_BUILDING
-} OperationalMode;
 
-struct EmbeddedState {
-    const char *dialogue;
-    const char *current_focus;
-    void *system_boundary;
-};
-
-struct EmbeddedState init_system_state(OperationalMode mode) {
-    struct EmbeddedState state = {
-        .dialogue = "Nothing goes with a percocet like some good air conditioning, ya know?",
-        .system_boundary = (void *)0xC0000000
-    };
-
-    if (mode == MODE_STUDYING) {
-        state.current_focus = "opsec";
-    } else {
-        state.current_focus = "operating systems, linux internals, fintech";
-    }
-
-    return state;
-}
-```
+hello world
 
 ---
 ### Contact
